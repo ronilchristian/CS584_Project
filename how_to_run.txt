@@ -1,0 +1,2 @@
+1. Open src folder as the project directory
+2. Run main.py
